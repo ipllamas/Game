@@ -8,6 +8,9 @@ import android.util.Log;
 
 /**
  * Created by Ivan on 1/1/2017.
+
+ **A class dedicated to the player character helps separate the different elements of the game to
+ **make understanding of the project structure more manageable.
  */
 
 public class Player {

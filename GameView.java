@@ -19,6 +19,12 @@ import java.util.Random;
 
 /**
  * Created by Ivan on 11/23/2016.
+
+
+ **This is the main game loop. it is within this class where the game is initialized
+ **with all the proper objects and values. The game then iterates through the update()
+ **and onDraw() methods to keep the game running using all the logic to keep the game
+ **running as it should.
  */
 public class GameView extends SurfaceView implements SurfaceHolder.Callback{
 

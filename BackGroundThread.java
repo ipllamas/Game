@@ -2,6 +2,9 @@ package com.example.ivan.game;
 
 /**
  * Created by Ivan on 12/23/2016.
+
+
+ This class makes use of threads to ru
  */
 
 import android.graphics.Canvas;

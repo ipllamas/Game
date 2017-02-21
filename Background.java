@@ -7,6 +7,8 @@ import android.graphics.Matrix;
 
 /**
  * Created by Ivan on 12/24/2016.
+
+ ***This class is meant to handle the logic behind the infinitely scrolling background.
  */
 
 public class Background {

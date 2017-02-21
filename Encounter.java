@@ -6,6 +6,9 @@ import android.graphics.Paint;
 
 /**
  * Created by Ivan on 1/5/2017.
+
+ **This class contains the possible random encounters that the player can trigger
+ **throughout the game. This class makes it easy to simply add new scenarios in the future.
  */
 
 public class Encounter {

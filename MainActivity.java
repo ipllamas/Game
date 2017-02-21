@@ -13,6 +13,9 @@ import android.widget.Toast;
 
 /**
  * Created by Ivan on 12/13/2016.
+
+ **This Android Activity launches upon the start of the app, and makes use of Android's
+ **layout files to create a main menu for the user, prior to the actual gameplay.
  */
 public class MainActivity extends Activity {
     @Override

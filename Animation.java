@@ -6,6 +6,9 @@ import android.util.Log;
 
 /**
  * Created by Ivan on 1/2/2017.
+
+ **This class is meant to handle the logic behind animating the player sprite, and can be used to
+ **animate other sprites as needed in the future.
  */
 
 public class Animation {
